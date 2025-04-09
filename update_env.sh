@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source "C:\Users\ubiqu\anaconda3\etc\profile.d\conda.sh"
+source ~/anaconda3/etc/profile.d/conda.sh
 conda activate indeed_scraper
 
 ENV_NAME="indeed_scraper"
