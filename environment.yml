@@ -1,0 +1,7 @@
+name: indeed_scraper
+channels:
+  - defaults
+dependencies:
+  - python
+  - selenium
+prefix: C:\Users\ubiqu\anaconda3\envs\indeed_scraper
